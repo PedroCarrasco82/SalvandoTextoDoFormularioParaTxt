@@ -5,18 +5,18 @@ var consign = require('consign');
 var app = express();
 
 app.set('view engine','ejs');
-app.set('views','./app/views');
+app.set('views','./app/view');
 
 app.use(bodyParser.urlencoded({extended: true}));
 
 app.use(bodyParser.json());
 
-app.use(express.static('./app/views'));
+app.use(express.static('./app/view'));
 
 
 consign()
     .include('app/routes')
-    .then('app/controllers')
+    .then('app/controller')
     .into(app);
 
 module.exports = app;
