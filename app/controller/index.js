@@ -5,7 +5,6 @@ module.exports.index = function(application,req,res){
 }
 
 module.exports.registrararquivo = function(application,req,res){
-    console.log("teste "+req.body.nomeArquivo+" "+req.body.conteudoArquivo);
    fs.writeFile("./app/files/"+req.body.nomeArquivo+".txt", req.body.conteudoArquivo,(err)=>{
         if(err)
             res.send(err);
