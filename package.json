@@ -1,0 +1,23 @@
+{
+  "name": "requisicaopartxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroCarrasco82/SalvandoTextoDoFormularioParaTxt.git"
+  },
+  "author": "Pedro Augusto Carrasco de Moura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroCarrasco82/SalvandoTextoDoFormularioParaTxt/issues"
+  },
+  "homepage": "https://github.com/PedroCarrasco82/SalvandoTextoDoFormularioParaTxt#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
