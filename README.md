@@ -8,3 +8,4 @@
 
 ### Para executar a aplicação você deverá acessar a pasta do projeto pelo prompt de comando (o comando para isso é cd caminho da pasta)
 
+![image](https://user-images.githubusercontent.com/54483719/78820804-cedbc080-79ae-11ea-941e-1f3ffecb35ab.png)
