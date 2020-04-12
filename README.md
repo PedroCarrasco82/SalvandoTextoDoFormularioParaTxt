@@ -12,6 +12,6 @@
 
 ![image](https://user-images.githubusercontent.com/54483719/78820804-cedbc080-79ae-11ea-941e-1f3ffecb35ab.png)
 
-### Abra o o navegador e coloque a URL localhost:8080, então irá acessar a página com o formulário. Ao preencer o formulario e pressionar o botão salvar, o arquivo irá ser salvo na pasta "files" que está dentro de "app"
+### Abra o o navegador e coloque a URL localhost:8080, então irá acessar a página com o formulário. Ao preencher o formulario e pressionar o botão salvar, o arquivo irá ser salvo na pasta "files" que está dentro de "app"
 
 ![image](https://user-images.githubusercontent.com/54483719/78822376-588c8d80-79b1-11ea-910a-5c1e0ae7c692.png)
